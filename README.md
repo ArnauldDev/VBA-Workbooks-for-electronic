@@ -1,20 +1,22 @@
 # VBA-Workbooks-for-electronic
 
-Collection de classeurs pour gestion des composants électroniques.
+Collection de classeurs pour la gestion des composants électroniques.
+
+---
+
+## Extraction-for-electronic-components
+
+Extraction d'informations des composants électroniques depuis les sites Internet de RS et Farnell.
+
+![Excel-Extraction-for-electronic-components](Images/Excel-Extraction-for-electronic-components.gif)
 
 ---
 
 ## Extracting-order-info-from-distributors
 
-Extraction d'informations des commandes des distributeurs RS et Farnell.
+Extraction d'informations des commandes réalisées chez les distributeurs RS et Farnell.
 
 ![Excel-Extraction-Distributeurs](Images/Excel-Extraction-Distributeurs.gif)
-
----
-
-## Template-Extraction-for-electronic-components
-
-Extraction d'informations des composants électroniques depuis les sites Internet de RS et Farnell.
 
 ---
 
