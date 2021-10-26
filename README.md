@@ -22,6 +22,8 @@ Extraction d'informations des commandes réalisées chez les distributeurs RS et
 
 ## Usage and Debugging macros
 
+Afin d'utiliser les macros du classeur, [vous devez autoriser celles-ci à s'exécuter](https://support.microsoft.com/fr-fr/office/activer-ou-d%C3%A9sactiver-les-macros-dans-les-fichiers-office-12b036fd-d140-4e74-b45e-16fed1a7e5c6).
+
 ### Make the Developer Ribbon visible in Excel
 
 ![Excel-Ruban-Developpeur](Images/Excel-Ruban-Developpeur.gif)
